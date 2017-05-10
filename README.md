@@ -1,2 +1,3 @@
 # hello-world
-Another repository for ideas.
+
+I'm a human not knowing what it means to be a human.
